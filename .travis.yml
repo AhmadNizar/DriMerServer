@@ -1,7 +1,3 @@
 language: node_js
 node_js:
   - "stable"
-deploy:
-  provider: gae
-  keyfile: DriMerServer-ee415b7ea2bf.json
-  project: drimerserver
