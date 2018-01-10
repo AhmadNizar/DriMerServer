@@ -1,11 +1,19 @@
+var chai = require('chai')
+var chaitHttp = require('chai-http')
+var server = require('../app')
+var should = chai.should()
+var expect = chai.expect
+var assert = require('assert')
 
-var assert = require('assert');
-var calculator = require('../app');
-describe('calculator', function() {
-    describe('add function', function() {
-        it('adds numbers', function () {
-            var result = calculator.add(1, 1);
-            assert.equal(result, 2);
-        });
-    });
-});
+chai.use(chaitHttp)
+
+describe('get run', function () {
+  it('/', function(done){
+    chai.request(server)
+    .get('/')
+    .end(function(err,res){
+      res.body.should.be.an('object')
+      done()
+    })
+  })
+})
