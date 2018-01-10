@@ -4,7 +4,7 @@
   "description": "Server for DriMerApps",
   "main": "index.js",
   "scripts": {
-    "test": "mocha",
+    "test": "mocha --exit",
     "dev": "nodemon app.js",
     "start": "node app.js"
   },
