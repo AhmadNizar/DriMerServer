@@ -18,5 +18,8 @@
   "homepage": "https://github.com/AhmadNizar/DriMerServer#readme",
   "devDependencies": {
     "mocha": "^4.1.0"
+  },
+  "dependencies": {
+    "express": "^4.16.2"
   }
 }
