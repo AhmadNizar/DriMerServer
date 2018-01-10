@@ -1,0 +1,22 @@
+{
+  "name": "drimerserver",
+  "version": "1.0.0",
+  "description": "Server for DriMerApps",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AhmadNizar/DriMerServer.git"
+  },
+  "author": "AhmadNizar, AmeliaRahman, CB, FarisWD, DJWisnu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AhmadNizar/DriMerServer/issues"
+  },
+  "homepage": "https://github.com/AhmadNizar/DriMerServer#readme",
+  "devDependencies": {
+    "mocha": "^4.1.0"
+  }
+}
