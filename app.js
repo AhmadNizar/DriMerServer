@@ -1,11 +1,11 @@
 const app = require('express')()
 
-app.use('/', (req, res) => {
-  res.send({jos : 'run' })
-})
-
 app.use('/test', (req, res) => {
   res.send({Nijar : 'tamvan'})
+})
+
+app.use('/', (req, res) => {
+  res.send({jos : 'run' })
 })
 
 app.listen((process.env.PORT || '3000'), () => {

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "drimerserver",
+  "private_key_id": "cf5993bf92752c39b32adf57576edc357b6de2a9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDKdmpIxPYowVeW\n2pBNiULtdzkFzoUesFA4NwFXfJ4veEcl75qZbgoM1iOy05DqXyOVc7c700xRVmXO\nL91rNf31z7jFt8MwL76d0xLGNirYVCyAYTdIkI8eplR3hRmQq9AWk7s1tGv+xmdc\nPGA7Jp2CkoYtLpAb2ZUPs4zkfpQxG+TM4m5NQL2Jw+4cur1CgE/FvhYMJREOigpq\nmU6Co/1y/sQOqL9JkS//GrTi6znukASjnpKBc/8l3IN0cvaznXddtdozywQTBATm\neYdKPB4YAljsOvaLnInhhUUwBwZ3dV93YilqomskzyjLgxq5tjfODwqZkRfc8xaI\n4d9paY7lAgMBAAECggEAY18ciov1wAopefbbpdrNmS0PtVxodSgXr4e75ltZbrYr\nwaBpMo5Sa3t9OQvjUE2S8wtBL6Flj3SG8l0G4dS1yf0C1TR9Hn0Io4EScWvrupMR\n5o8QqdKeFG6R/bm70wipUTOASvs7mGh8GcbeepnY7FoLdkio3ap9IaBAcnP4O2N0\nEVERkgmmS8OAndm0qZnyCwZts7sfKzC2rmq730zu3W9QqVp2imuREIjGML+q+axq\nxjkr3VzItO22ksZsCkmFuwHSTASKi49Ywt/pFAyFXqS3OJdc2xnnt6SuTCzpE94r\nxxLRh/+wnqIZje40fWj4wkmRWMHW+wfEok5kYiwlnwKBgQDyEVQFDP6oHa4vPrE5\nm56TnFT3qxTTsm1c87Xy1mK//D82kbK4rW4zYNNSKqi4QWbIFigvFCaZXJRc+erD\nmTEc4NaxLp3v5L8eNk6VcUCZOgjbOOuMoKM/jLf6DlT6NKplbarZSggrA8HRlkTT\nYcKs9G5+mwpX33jPIqz5OUJ0MwKBgQDWHYmSvgWisiJTOHnckh3wysqJuCjgVVYS\nbhYq28wKYv1XqKsrDJtK/mFPFvfYYOkibWnkh+wx3uTe8F/6dtiK2xrhC0QE2w0O\nn2K9IVVP/SjdmFNw8xbn3PtwF6uFE/uBzTXKQub9glgZInyedBHAeRhEUQwpckzB\nJCZu1CCYhwKBgAugoXSMpz7UDiXe0Qx/WSKmA77RzPJOQ8qPOlIr0hp+t1qbrQYJ\n7p0xLXVo7ynKmnFJ/ywjv6bmN4ovxwMWPLGyax2fq552UmfVG/k5s2yoyPwew9HB\ndZX74Gp2fcZ2+SheGDLPx4ypZYn3ud6dd4hvRU93iwulhFwOwlhGU9bZAoGAGxI0\n+Kap074t9NOpJKgcvPsGzI7KLELd1QqyJs0PaSjG2zRqH9FCOSMcboF66JKoJ0Aq\nKUi+JjgGO+GsYOBx1GyLY3SnLu37IqQoOb1jKe/aINpHgnpZpQsdhziW6QZzwB+P\n83it99NpDBR+KRKHxAwLc2fD3+GhrrHBYjXTwTUCgYBUowXHwBDvqH6gTPRB1276\nU/iLXYkgMQrzALxRd2Tu5l/AKgHSbu9zJcxAm+KffykdlX3Dms9O3YX28FoBNSwl\nP7+kJdQVEwvKzsOv3F+MohUgujg1f9UryGyt8CPwXcsjIYL5ouNUfIsQ/haBXpZq\nRf+BYMH49RK58egi4hBEug==\n-----END PRIVATE KEY-----\n",
+  "client_email": "drimerserver@appspot.gserviceaccount.com",
+  "client_id": "102444376915805056168",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/drimerserver%40appspot.gserviceaccount.com"
+}
